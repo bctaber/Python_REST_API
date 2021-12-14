@@ -1,3 +1,8 @@
+#First Python API Tutorial
+#Ref: https://www.youtube.com/watch?v=5ZMpbdK0uqU&list=PLPZbGfThL-GWlUaanfM_QNkOtIjnoBNtq&index=10
+#Notes: Uses Python & Flask. Description: Flask was released in 2010, a micro web framework written in python to support the deployment of web applications with a minimal amount of code. It is designed to be an easy setup, flexible and fast to deploy as a microservice. Flask is built on WSGI (Python Web Server Gateway Interface) whereby the server will tie up a worker for each request.
+
+
 from flask import *
 import json, time
 
